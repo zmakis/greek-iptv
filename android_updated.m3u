@@ -59,18 +59,12 @@ https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV EPILOGES",TV EPILOGES
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="THRAKI NET",THRAKI NET
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BERGINA",BERGINA
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL",TOP CHANNEL
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CORFU TV",CORFU TV
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EPIRUS TV1",EPIRUS TV1
-https://rtmp.win:3929/live/epiruslive.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="START TV",START TV
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV",ASTRA TV
 https://server.gointernet.gr/live/livestream.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO",LEPANTO
@@ -85,13 +79,6 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Acheloos TV",Acheloos TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Aeolos TV",Aeolos TV
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="ANT1 Satellite",ANT1 Satellite
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://194.156.236.36/stream/13/index.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="ART TV",ART TV
-https://rtmp.win:3696/live/arttvgrlive.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Baraza TV",Baraza TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Baraza TV Deep House",Baraza TV Deep House
@@ -104,8 +91,6 @@ https://eu1.streams.gr:8081/centertv/index.m3u8
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Creta",Creta
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Dion TV",Dion TV
-https://rtmp.win:3650/live/diontvlive.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Ecclesia TV",Ecclesia TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Egnatia TV",Egnatia TV
@@ -116,8 +101,6 @@ https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="ERT News HD",ERT News HD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Euro TV",Euro TV
-https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Extra ProNews",Extra ProNews
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Faros TV2",Faros TV2
@@ -128,8 +111,6 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Kos TV",Kos TV
 https://eu1.streams.gr:8081/kostv/index.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Mesogeios TV",Mesogeios TV
-https://rtmp.win:3793/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Messatida TV",Messatida TV
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Naftemporiki TV",Naftemporiki TV
@@ -160,15 +141,7 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Xplore",Xplore
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1 group-title="ΝΕΑ ΚΑΝΑΛΙΑ" tvg-name="Βουλή Τηλεόραση",Βουλή Τηλεόραση
-https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="ERT Cosmos Cyprus",ERT Cosmos Cyprus
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="Omega Channel",Omega Channel
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK 1",RIK 1
-https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK 2",RIK 2
-https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK HD",RIK HD
-https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
